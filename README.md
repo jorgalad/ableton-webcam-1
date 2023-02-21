@@ -1,4 +1,4 @@
-# ableton-webcam-1
+# Using a Webcam to control Ableton
 A Python project to control Ableton in a musical way, see: <br/>
 https://youtu.be/fk9_NgEMOIc
 
